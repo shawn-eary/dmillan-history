@@ -2,6 +2,8 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-
 https://webapps.stackexchange.com/questions/56898/am-i-allowed-to-host-a-commerical-website-on-github-pages
 https://www.w3schools.com/tags/tag_img.asp 
 https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html
+https://www.w3schools.com/html/html_basic.asp
+https://www.w3schools.com/CSS/css_howto.asp
 
 Emoji Kitchen
 https://github.com/xsalazar/emoji-kitchen
