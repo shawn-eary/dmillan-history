@@ -7,3 +7,5 @@ Emoji Kitchen
 https://github.com/xsalazar/emoji-kitchen
 https://github.com/xsalazar
 https://emojikitchen.dev/
+
+Bing and MS Copilot (For reference only)
