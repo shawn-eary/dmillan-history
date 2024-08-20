@@ -14,5 +14,8 @@ to see what tools Shawn Eary used to port Professor Millen's old
 website to GitHub Pages
 */
 div {
-    text-align: center;
+    padding-top: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5px;
 }
